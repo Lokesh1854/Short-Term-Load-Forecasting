@@ -1,0 +1,4 @@
+We can see that generally the error after applying clustering on the data set has increased. However, the opposite was observed for cluster-0 data due to the presence of many outliers therein and in such cases clustering is preferable due to robust to high value noise nature. 
+In case of ML models, we saw the least error in the random forest method due to its optimal feature selection strategies thereby giving accurate results of the rest of the ML Models. 
+Amongst the individual architectures, we saw least MAPE in the LSTM architecture and thus tried improvising the same by connecting it in series as well as in parallel with other neural networks. 
+For future innovations, we have decided to work more on the different combinations of the LSTM models and Non-Intrusive Load monitoring (NILM) implementation via hardware for power consumption on appliance level. 
